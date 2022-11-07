@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OriginRing
-- 👀 I’m interested in play games
+- 👀 I’m interested in play Apex Legends
 - 🌱 I’m currently learning angular
 - 📫 How to reach me yongyue_geng@163.com
 
