@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OriginRing
-- 👀 I’m interested in play Apex Legends
-- 🌱 I’m currently learning angular
-- 📫 How to reach me yongyue_geng@163.com
+- 👀 I’m currently learning angular
+- 🎮 I’m interested in play Apex Legends
+- 📩 How to reach me yongyue_geng@163.com
 
 <!---
 OriginRing/OriginRing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
