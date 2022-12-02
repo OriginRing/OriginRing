@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OriginRing&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriginRing)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OriginRing&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 OriginRing/OriginRing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
